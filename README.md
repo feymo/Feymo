@@ -22,7 +22,11 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP          1 hr 26 mins    ████████████▒░░░░░░░░░░░░   48.92 % 
+Twig         51 mins         ███████▒░░░░░░░░░░░░░░░░░   28.89 % 
+Docker       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+JavaScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+SCSS         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 ```
 <!--END_SECTION:waka-->
 
