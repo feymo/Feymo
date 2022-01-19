@@ -19,7 +19,7 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 #### 🛠 IDE & Tools
 <img src="https://img.shields.io/badge/PhpStorm-7952B3.svg?logo=phpstorm&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white" /> <img src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-00f.svg?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Asana-CC342D.svg?logo=asana&logoColor=white" /> 
 
-#### 📊 Weekly most used languages
+#### 📊 Most used languages over last 7 days
 <!--START_SECTION:waka-->
 ```text
 PHP          10 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   46.89 % 
