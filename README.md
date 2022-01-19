@@ -22,11 +22,11 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 
 <!--START_SECTION:waka-->
 ```text
-PHP          10 hrs 13 mins  ████████████▒░░░░░░░░░░░░   48.98 % 
-JavaScript   4 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Twig         3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-YAML         1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-SCSS         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+PHP          10 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   46.89 % 
+JavaScript   6 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+Twig         2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+YAML         2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+SCSS         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 <!--END_SECTION:waka-->
 
