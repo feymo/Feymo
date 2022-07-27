@@ -23,12 +23,12 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```text
-YAML                               ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
-PHP                                █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-Docker                             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-JSON                               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-SmartyConfig                       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-reStructuredText                   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+YAML                               ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
+PHP                                █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+JSON                               ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+SmartyConfig                       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Docker                             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+reStructuredText                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
 ```
 
 <!--END_SECTION:waka-->
