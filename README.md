@@ -23,12 +23,7 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```text
-PHP                                        ██████████▓░░░░░░░░░░░░░░   43.11 %
-YAML                                       ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-reStructuredText                           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-JSON                                       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-SmartyConfig                               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Docker                                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
