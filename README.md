@@ -23,12 +23,9 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   ██████████████████▒░░░░░░   73.56 %
-.env file                    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-PHP                          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Makefile                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Markdown                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+TypeScript                   █████████████████████████   99.55 %
+JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
