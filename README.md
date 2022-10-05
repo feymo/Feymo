@@ -23,12 +23,12 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                       █████████████████░░░░░░░░   67.66 %
-PHP                              █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-GitIgnore file                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Markdown                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-JavaScript                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Makefile                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+TypeScript                       ██████████████▓░░░░░░░░░░   58.88 %
+PHP                              ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+GitIgnore file                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JavaScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Makefile                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
