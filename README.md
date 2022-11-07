@@ -23,7 +23,7 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```text
-Python                           ████████▓░░░░░░░░░░░░░░░░   34.14 %
+Python                           ████████▓░░░░░░░░░░░░░░░░   34.13 %
 JSON                             ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
 TypeScript                       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
 PHP                              ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
