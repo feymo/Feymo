@@ -23,12 +23,12 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```text
-PHP                                ███████████████░░░░░░░░░░   59.78 %
-Twig                               ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-YAML                               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-JavaScript                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-reStructuredText                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Makefile                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+PHP                                ███████████████▒░░░░░░░░░   61.05 %
+Twig                               ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+TypeScript                         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+YAML                               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+reStructuredText                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Makefile                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
