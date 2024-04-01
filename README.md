@@ -23,8 +23,8 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                         ████████████████████████░   95.78 %
-YAML                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+PHP                         ████████████████████████░   95.80 %
+YAML                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 JSON                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 Markdown                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 XML                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
