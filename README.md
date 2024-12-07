@@ -23,11 +23,11 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```txt
-Twig                             █████████████░░░░░░░░░░░░   52.03 %
-PHP                              ███████▒░░░░░░░░░░░░░░░░░   29.73 %
-JavaScript                       ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Twig                             ███████████▓░░░░░░░░░░░░░   46.65 %
+PHP                              █████████▓░░░░░░░░░░░░░░░   38.46 %
+JavaScript                       ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
 Image (svg)                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-SCSS                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+SCSS                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
