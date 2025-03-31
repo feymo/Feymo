@@ -23,11 +23,11 @@ Web App PHP developper, Symfony enthousiast always learning & discovering !
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                          ████████████████████████░   95.50 %
+PHP                          ████████████████████████░   95.35 %
 YAML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 .env file                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Twig                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Twig                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
